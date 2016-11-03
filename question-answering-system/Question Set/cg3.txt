@@ -1,0 +1,16 @@
+Assuming that a certain full-color (24-bit per pixel) RGB raster system has
+a 512 by 512 frame buffer, how many distinct color choices (intensity levels)
+would be available.
+Explain how virtual reality systems can be used in design applications.
+Write an algorithm for generating the intermediate points using Bresenham's algorithm when two-end points are given as input.
+Write an algorithm for polyline function which calls the above algorithm, given any number (n) of input points. A single point to be plotted when n=1.
+Show that the transformation matrix for a reflection about the line y=x is equivalent to a reflection relative to the x axis followed by a counter clockwise rotation of 900.
+Give a brief note about two dimensional viewing functions. Give an example which uses two dimensional viewing functions.
+Explain the Cohen-Sutherland line clipping algorithm.
+Determine the blending functions for uniform periodic B-spine curve for d=6.
+Write the equation for the basic illumination model using a single point light source and constant surface shading for the faces of a specified polyhedron.
+Derive the quaternion rotation matrix for rotation about an arbitrary axis in three-dimensional domain.
+Classify the perspective projections and explain about each.
+Explain the depth-buffer (z-buffer) algorithm for hidden surface removal.
+Explain the procedure to compute the z-values in two successive locations in a scan-line and intersection positions on two successive scan lines.
+What are the steps in design of animation sequence? Describe about each step briefly.

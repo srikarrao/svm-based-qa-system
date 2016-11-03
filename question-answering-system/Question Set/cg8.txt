@@ -1,0 +1,22 @@
+List the operating characterstics of
+(a) Raster refresh systems
+(b) Vector refresh systems
+(c) Plasma panel
+(d) LCDs.
+What are the steps involved in Bresenham’s line drawing algorithm for |m| > 1, where m is slope of the line.
+Generate all raster points on the line segments, if the two end-points are given as (10,20) and (18,30) using the above algorithm.
+Prove that a uniform scaling and a rotation form a commutative pair of operations, but that, in general, scaling and rotation are not commutative.
+Derive the transformation matrix for rotation about origin.
+List the algorithms which are suitable for line clipping when the clipping polygon is non-rectangular window.
+Explain about the following categories of lines with respect to rectangular clipping window. 
+i. Completely visible
+ii. Clipping-candidate
+iii. Completely invisible.
+Explain the steps involved in curve generation by Bazier’s method.
+Draw the Bernstein polynomials. Illustrate their role in Bazier curve generation.
+What is the procedure for reflecting an about an arbitrarily selected plane.
+What are the characterstics of perspective projections?
+Distinguish between object-space and image space methods of visible surface detection algorithms. Give examples for each.
+Given points P (1, 2, 0), P (3, 6, 20) P (2, 4, 6) and a view point C (0, 0, -10),
+determine which points obscure the others when viewed from C.
+What are the issues involved in design of a story board layout with accompanying key frames for an animation of a single polyhedron.

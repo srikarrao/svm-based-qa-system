@@ -1,0 +1,18 @@
+Explain the concepts of aliasing and antialiasing.
+How can the effects of alias-ing be minimized?
+Write short notes on frame buffer.
+Explain the role of display interpreter in graphical display?
+What is meant by normalized device co-ordinate system? What are its advantage?
+What is meant by homogeneous co-ordinate system for transformations? What are its advantages?
+What is meant by composite transformations? How does it achieved?
+What are the various operations to be performed on the segments? 
+Discuss various data structures that can be used for storing segments in the display files.
+Explain the Cohen-Sutherland algorithm for finding the category of a line segment.
+Show clearly how each category is handled by the algorithm.
+Explain the method to derive the transformation matrix for rotating an object about any arbitrary axis.
+Write about the following:
+(a) Gourand shading.
+(b) Painter’s algorithm.
+Explain the following:
+(a) Simple raster display system
+(b) Sweeping method of interpolation.

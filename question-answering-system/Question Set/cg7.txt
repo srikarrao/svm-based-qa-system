@@ -1,0 +1,19 @@
+Explain the applications for large-screen displays. 
+What graphical output devices support it?
+List the algorithm steps for ellipse generation using mid-point ellipse generation.
+Explain how the interior and exterior regions are identified using odd party rule.
+List the basic transformation techniques. 
+What are their respective mathematical and matrix representations?
+Prove or disprove that two successive rotations in 2-D space are commutative.
+What are the stages involved in two-dimensional viewing transformation pipeline.
+Explain briefly about each stage.
+What is parametric representation of a line? What is its form? 
+What are the typical range of values for parametric variable.
+Given the plane parameters A, B, C and D for all surfaces of an object, explain the procedure to determine whether any specified point is inside or outside the object.
+Prove that the multiplication of three-dimensional transformation matrices for each of the following sequence of operations is commutative.
+(a) Any two successive translations
+(b) Any two successive saling operations
+(c) Any two successive rotations about any one of the coordinate axes.
+Assuming that one allows 224 depth value levels to be used, how much memory would a 1024 × 768 pixel display requires to store the z-buffer.
+How can the amount of computation required by the scan-line method be reduced?
+What are the issues involved in design of a story board layout with accompanying key frames for an animation of a single polyhedron.

@@ -1,0 +1,18 @@
+Discuss about the applications of computer graphics in the area of image processing.
+Explain the steps involved in scan-line polygon-fill algorithm. 
+Illustrate with an example polygon and the corresponding sorted edge table.
+Explain the steps involved in 
+i. odd-even rule and
+ii. non-zero winding number rule, which are used for and carrying out inside-outside test.
+Perform a 450 rotation of a triangle A(0,0), B(1,1) and C(5,2) about P(-1,-1).
+Magnify the triangle with vertices A(0,0), B(1,1) and C(5,2) to thrice its size while keeping B(1,1) fixed.
+Express window-to-viewport mapping in the form of a composite transformation matrix.
+Find the normalization transformation that maps a window whose lower left corner is at (1,1) and upper right corner is at (3,5) on to entire normalized device screen.
+Distinguish between boundary representation and space-partitioning representation of solid object representation schemes.
+List and describe the polygon tables representation for polygon surfaces of a 3-D object. Give an example.
+How can scaling with respect to a point Po(xo, yo, zo) be defined in terms of scaling with respect to the origin.
+Explain the step-wise procedure in aligning an arbitrary plane with one of the principal planes.
+Write an algorithm to implement scan-line algorithm for displaying visible surfaces of a given polyhedron.
+Explain how the coherence property is used to evaluate points along and between scan-lines.
+Explain the procedure to simulate the linear, two-dimensional motion of a filled circle inside a given rectangular area. 
+The circle is to be given an initial velocity and the circle is to rebound from the walls with the angle of reflection equal to the angle of incidence.

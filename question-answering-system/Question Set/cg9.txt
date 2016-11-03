@@ -1,0 +1,16 @@
+List and explain the applications of Computer Graphics.
+With a neat cross- sectional view explain the functioning of CRT devices.
+Explain the steps involved in scan-line polygon-fill algorithm. 
+Illustrate with an example polygon and the corresponding sorted edge table.
+(b) Explain the steps involved in 
+i. odd-even rule and
+ii. non-zero winding number rule, which are used for and carrying out inside-outside test.
+Show that the transformation matrix for a reflection about the line y = -x is equivalent to a reflection relative to the y-axis followed by a counter clockwise rotation of 900.
+Explain the procedure to determine whether a polygon edge intersects a window edge or not.
+Justify that the Sutherland-Hodgeman algorithm is suitable for clipping concave polygons also.
+Given the plane parameters A, B, C and D for all surfaces of an object, explain the procedure to determine whether any specified point is inside or outside the object.
+How can scaling with respect to a point Po(xo, yo, zo) be defined in terms of scaling with respect to the origin.
+Explain the step-wise procedure in aligning an arbitrary plane with one of the principal planes.
+Write an algorithm to display the visible surfaces of a convex polyhedron using the depth-sort (painter’s) algorithm.
+Explain how the visible surfaces of a polyhedron are determined using BSP-tree method.
+Describe in detail about the methods of controlling animation.

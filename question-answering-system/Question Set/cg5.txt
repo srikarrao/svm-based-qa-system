@@ -1,0 +1,13 @@
+List and explain the applications of Computer Graphics.
+With a neat cross- sectional view explain the functioning of CRT devices.
+Show graphically that an ellipse has four-way symmetry by plotting four points on the ellipse:
+x = a cos ? + h, y = b sin ? + k where a =2, b=1, h=0 and k=0.
+When 8-way symmetry of circle is used to obtain a full circle from pixel coor-dinates generated from first octant, does overstrike occur? Where?
+Determine the form of the transformation matrix for a reflection about an arbitrary line defined with equation y = m x+b.
+Explain the algorithm for line clipping by Cohen-Sutherland algorithm. 
+Demonstrate with an example all the three cases of lines.
+Given the plane parameters A, B, C and D for all surfaces of an object, 
+explain the procedure to determine whether any specified point is inside or outside the object.
+A pyramid defined by the coordinates A(0, 0, 0), B(1, 0, 0), C(0, 1, 0) and D(0,0, 1) is rotated 450 about the line L that has the direction V=J+K and passing through point C(0, 1, 0). Find the coordinates of rotated figure.
+Write an algorithm for generating a quad tree representation for the visible surfaces of an object by applying the area subdivision tests to determine the values of the quad tree elements.
+List the general-purpose animation languages. Explain the characteristics any are language.

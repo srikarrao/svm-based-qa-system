@@ -1,0 +1,23 @@
+Explain the construction of the following devices with suitable sketches and their
+operating characterstics
+(a) Raster- refresh devices
+(b) Vector- refresh devices.
+Explain how the pixel screen positions are stored and retrieved from frame buffer.
+What are the steps involved in mid point circle algorithm?
+Derive the transformation matrix for rotation about origin.
+(b) Explain the terms: 
+i. Homogeneous Coordinates
+ii. Rigid-body transformations
+iii. Composite transformations.
+Let R be a rectangular window whose lower left corner is at L (-3,1) and upper right-hand corner is at R(2,6). If the line segment is defined with two end points with A (-4,2) and B (-1,7).
+(a) The region codes of the two end points,
+(b) Its clipping catezory and
+(c) Stages in the clipping operations using Cohen-Sutherland algorithm.
+Distinguish between boundary representation and space-partitioning representation of solid object representation schemes.
+(b) List and describe the polygon tables representation for polygon surfaces of a 3-D object. 
+Give an example.
+Given a unit cube with one corner at (0, 0, 0) and the opposite corner at (1, 1,1), derive the transformations necessary to rotate the cube by ? degrees about the main diagonal (from (0, 0, 0) to (1, 1, 1) in the counter clock-wise direction when looking along the diagonal toward the origin.
+Illustrate the procedure for implementing area-sub division method.
+Explain how the BSP-tree method is implemented for visible surface detection.
+List and explain about the steps of animation.
+What are the various types of interpolation used in animation.

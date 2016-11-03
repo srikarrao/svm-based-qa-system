@@ -1,0 +1,18 @@
+Apply the Bresenham’s algorithm to turn up pixels along the line segment determined by points (5,7) and (12,11).
+Give parametric equation of a line between points (1, 1, 2) and (14,14,10).
+Explain the following:
+(a) world, screen and normalised cordinates.
+(b) 2D graphics primitives.
+Prove that the two successive 2D rotations are additive
+R(1)R(2) = R(1+2).
+Explain the following terms with reference to 2-D displays:
+(a) Viewing transformation
+(b) Windows and view ports
+Explain the logic of the Sutherland-Hodgman algorithm with the help of a neat flowchart.
+Illustrate the working of your flowchart with the help of a suitable example.
+Write 3 dimentional homogeneous matrix to rotate by  degrees degrees about the line passing through the point (0,0,0) and (1,0,1)
+Write a note on smooth shading.
+Explain the basic conepts of hidden surfaces and line removal methods with suitale examples.
+Write about z-buffers.
+Write about pipeline and parallel front end architecture.
+Explain about Bezier curves.
